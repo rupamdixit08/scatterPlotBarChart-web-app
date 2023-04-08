@@ -15,7 +15,7 @@ first install yarn
 To clone the repository
 
 ```bash
-git clone https://github.com/rupamdixit08/scatterPlotBarChart-web-app.git
+git clone  https://github.com/rupamdixit08/scatterPlotBarChart-web-app.git
 ```
 
 # After Cloning the app please install the required dependencies by
